@@ -76,7 +76,7 @@
           <h2>ShipBob is an end-to-end fulfillment provider trusted by thousands of DTC brands</h2>
         </div>
         <div class="sb_home--sec3-item1 sb_criss-cross --reverse">
-          <div class="sb_criss-cross--text">
+          <div class="sb_criss-cross--text pl-lg-5 ml-lg-5">
             <h2>Powerful network of fulfillment centers</h2>
             <p><span>We help you determine optimal inventory placement across our growing fulfillment network to improve delivery speeds and reduce shipping costs. You can scale efficiently by distributing inventory into additional warehouses over time.</span></p>
             <ul class="list-check">
