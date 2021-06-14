@@ -4,7 +4,7 @@
       <div class="container">
         <div class="sb_hero--inner home_hero--inner">
           <div class="sb_hero--text home_hero--text">
-            <h1 class="font-weight-bold">Kirim paket ya pakai<div class="text-primary">KiriminAja</div></h1>
+            <h1 class="font-weight-bold">Kirim paket ya pakai <span class="text-primary">KiriminAja</span></h1>
             <p><span>KiriminAJA membantu anda menemukan kurir yang terbaik untuk pengiriman paket. Bisa kirim NON-COD & COD (Cash On Delivery) dengan Pencairan Harian, serta penjemputan paket (Pickup). Gunakan aplikasi KiriminAJA untuk pengiriman paket, Yuk download aplikasinya. </span></p>
             <div>
               <a target="_blank" href="https://play.google.com/store/apps/details?id=id.tries.kiriminaja&amp;hl=in"><img src="//demo.tokotries.com/assets/gplay.png" width="170px" alt=""></a>
