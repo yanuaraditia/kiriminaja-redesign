@@ -2,7 +2,7 @@
   <div>
     <b-navbar toggleable="lg" type="light" variant="white" class="pl-lg-4">
       <b-navbar-brand href="#">
-        <img src="https://kiriminaja.com/assets/home/2.png" height="40px" alt="">
+        <img src="/assets/logo.svg" height="40px" alt="">
       </b-navbar-brand>
 
       <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>

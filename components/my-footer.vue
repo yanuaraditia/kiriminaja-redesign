@@ -5,7 +5,7 @@
         <div class="row">
           <div class="col-sm-12 col-lg">
             <a href="https://www.shipbob.com" class="sb_footer--logo mb-3">
-              <img src="https://kiriminaja.com/assets/home/3.png" height="40px" alt="ShipBob">
+              <img src="/assets/logo-icon.svg" height="40px" alt="ShipBob">
             </a>
             <h3 class="mt-3">Picked, packed, and shipped.</h3>
             <ul class="sb_footer--social">
