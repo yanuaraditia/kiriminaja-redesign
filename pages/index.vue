@@ -42,21 +42,21 @@
           <h2>How ShipBob goes from your online store to your customer’s door</h2>
         </div>
         <div class="row mt-4 mx-lg-5">
-          <div class="col-md-4">
+          <div class="col-md-4 text-center">
             <div class="img-wrap">
               <img src="https://www.shipbob.com/wp-content/uploads/2019/11/home-sec1-1.svg" alt="Connect" data-rjs="2">
             </div>
             <h3>1. Connect</h3>
             <p>Connect your store, import your products, then send us your inventory.</p>
           </div>
-          <div class="col-md-4">
+          <div class="col-md-4 text-center">
             <div class="img-wrap">
               <img src="https://www.shipbob.com/wp-content/uploads/2019/11/home-sec1-2.svg" alt="Store" data-rjs="2">
             </div>
             <h3>2. Store</h3>
             <p><span style="font-weight: 400;">We store your inventory in any combination of our fulfillment centers.</span></p>
           </div>
-          <div class="col-md-4">
+          <div class="col-md-4 text-center">
             <div class="img-wrap">
               <img src="https://www.shipbob.com/wp-content/uploads/2019/11/home-sec1-3.svg" alt="Ship" data-rjs="2">
             </div>
