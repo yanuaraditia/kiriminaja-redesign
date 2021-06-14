@@ -7,3 +7,45 @@
 .apps-wrapper {
   margin-top: 8rem;
 }
+
+.btn.btn-light2 {
+  -webkit-box-shadow: 0 3px 4px 0 rgba(10,8,59,.1);
+  box-shadow: 0 3px 4px 0 rgba(10,8,59,.10);
+  border: none;
+  background-color: #fff;
+  color: $primary !important;
+}
+.btn.btn-light2:hover, .btn.btn-light2:focus, .btn.btn-light2:active {
+  background-color: #fff;
+  -webkit-box-shadow: 0 3px 8px 0 rgba(10,8,59,.2);
+  box-shadow: 0 3px 8px 0 rgba(10,8,59,.2);
+}
+
+.line {
+  display: block;
+  width: 260px;
+  height: 1px;
+  background-color: rgba(10, 8, 59, 0.08);
+}
+.shipping-providers ul {
+  list-style: none;
+  margin-left: -20px;
+  margin-right: -20px;
+  margin-bottom: 20px;
+  padding: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  li {
+    margin-bottom: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    img {
+      position: relative;
+      z-index: 2;
+      border-radius: 4px;
+    }
+  }
+}
