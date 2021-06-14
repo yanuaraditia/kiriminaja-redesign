@@ -63,9 +63,15 @@
   .img-wrap img {
     position: relative;
     z-index: 3;
-    max-width: 460px;
+    max-width: 250px;
     height: auto;
     border-radius: 4px;
+    @media screen and (max-width: 1023px) {
+      margin-left: 1rem;
+    }
+    @media screen and (min-width: 1024px) {
+      max-width: 460px;
+    }
   }
 
   .dotted-box {
@@ -80,17 +86,27 @@
     right: -30px;
     bottom: -30px;
   }
+  @media screen and (max-width: 1023px) {
+    .home_hero--image {
+      margin-top: 4rem;
+    }
+  }
   .quote-card {
     box-shadow: 60px 40px 60px 0 rgba(19,23,32,0.1);
     border-radius: $border-radius;
     background-color: #fff;
     width: 100%;
-    max-width: 380px;
     position: absolute;
-    left: -100px;
-    bottom: -17px;
     z-index: 4;
     padding: 36px 15px;
+    max-width: 380px;
+    @media screen and (max-width: 1023px) {
+      display: none;
+    }
+    @media screen and (min-width: 1024px) {
+      left: -100px;
+      bottom: -17px;
+    }
   }
 
   .quote-card--inner {
