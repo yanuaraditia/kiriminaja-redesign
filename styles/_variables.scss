@@ -1,0 +1,22 @@
+$font-family-sans-serif: 'Quicksand',-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !default;
+$font-weight-base: 500;
+$btn-font-weight: 600;
+$btn-padding-x-lg: 30px;
+$btn-padding-y-lg: 16.5px;
+$container-max-widths: (
+  sm: 540px,
+  md: 720px,
+  lg: 970px,
+  xl: 1190px,
+  xxl: 1280px
+) !default;
+
+$border-radius: .25rem;
+$font-weight-bold: 700;
+$h1-font-size: 3.75rem;
+$primary: #6f2fab;
+$headings-font-weight: 600;
+
+.is-rounded {
+  border-radius: 1000px!important;
+}
