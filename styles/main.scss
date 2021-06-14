@@ -1,4 +1,9 @@
 @import "variables";
 @import "front-banner";
+@import "header";
 @import "footer";
 @import 'node_modules/bootstrap/scss/bootstrap';
+
+.apps-wrapper {
+  margin-top: 8rem;
+}

@@ -1,6 +1,6 @@
 <template>
   <div>
-    <b-navbar toggleable="lg" type="light" variant="white" class="pl-lg-4">
+    <b-navbar class="kj-header pl-lg-4 fixed-top" toggleable="lg" type="light" variant="white">
       <b-navbar-brand href="#">
         <img src="/assets/logo.svg" height="40px" alt="">
       </b-navbar-brand>
@@ -14,6 +14,9 @@
           <b-nav-item href="#">CekAja</b-nav-item>
           <b-nav-item href="#">FAQ</b-nav-item>
           <b-nav-item href="#">About Us</b-nav-item>
+        </b-navbar-nav>
+        <b-navbar-nav>
+          <b-nav-item href="#">Support</b-nav-item>
         </b-navbar-nav>
       </b-collapse>
     </b-navbar>
