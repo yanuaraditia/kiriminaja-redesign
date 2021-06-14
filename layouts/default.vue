@@ -1,6 +1,9 @@
 <template>
   <div>
     <my-header></my-header>
-    <Nuxt />
+    <div class="apps-wrapper">
+      <Nuxt />
+    </div>
+    <my-footer></my-footer>
   </div>
 </template>
